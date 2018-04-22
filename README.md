@@ -1,2 +1,2 @@
 # Tanks & Terrains
-A 2D-tank game implemented using Java
+A 2D-tank networking game written in Java
